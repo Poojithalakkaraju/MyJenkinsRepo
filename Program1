@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class program1 {
   public static void main(String args[]) {
 	int a ;
+        //take input from console
 	Scanner s = new Scanner(System.in);
 	a=s.nextInt();
 	if(a%2==0) {
